@@ -1,2 +1,2 @@
-name="monsurat ayinde"
-print(name)
+name=input("enter your name ")
+print("welcome " + name)
